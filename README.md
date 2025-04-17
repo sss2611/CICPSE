@@ -1,2 +1,2 @@
 # CICPSE
-Dentro de ester repositorio trabajaremos la parte Institucional
+Dentro de este repositorio trabajaremos la parte Institucional
